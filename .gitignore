@@ -1,0 +1,22 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# 临时文件
+*.tmp
+*.bak
+~$*
+
+# 本地草稿（私人内容不要进公开仓库）
+/drafts/
+/private/
+
+# 密钥（永远不要提交）
+.env
+.env.*
+*.pem
+*.key
+secrets.*
